@@ -1,3 +1,5 @@
+![alt text](ABTest3.png)
+
 # Analyse AB Test
 
 This project is part of Udacity Data Analyst Nanodegree program.
